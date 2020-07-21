@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hamirmahal/LeetCode-Solutions/static/css/main.a1bdc7a8.chunk.css",
+    "main.js": "/hamirmahal/LeetCode-Solutions/static/js/main.208c3695.chunk.js",
+    "main.js.map": "/hamirmahal/LeetCode-Solutions/static/js/main.208c3695.chunk.js.map",
+    "runtime-main.js": "/hamirmahal/LeetCode-Solutions/static/js/runtime-main.7e2bfb70.js",
+    "runtime-main.js.map": "/hamirmahal/LeetCode-Solutions/static/js/runtime-main.7e2bfb70.js.map",
+    "static/js/2.00405414.chunk.js": "/hamirmahal/LeetCode-Solutions/static/js/2.00405414.chunk.js",
+    "static/js/2.00405414.chunk.js.map": "/hamirmahal/LeetCode-Solutions/static/js/2.00405414.chunk.js.map",
+    "index.html": "/hamirmahal/LeetCode-Solutions/index.html",
+    "precache-manifest.a32fd869720f1c7852ad69275053308d.js": "/hamirmahal/LeetCode-Solutions/precache-manifest.a32fd869720f1c7852ad69275053308d.js",
+    "service-worker.js": "/hamirmahal/LeetCode-Solutions/service-worker.js",
+    "static/css/main.a1bdc7a8.chunk.css.map": "/hamirmahal/LeetCode-Solutions/static/css/main.a1bdc7a8.chunk.css.map",
+    "static/js/2.00405414.chunk.js.LICENSE.txt": "/hamirmahal/LeetCode-Solutions/static/js/2.00405414.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hamirmahal/LeetCode-Solutions/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e2bfb70.js",
+    "static/js/2.00405414.chunk.js",
+    "static/css/main.a1bdc7a8.chunk.css",
+    "static/js/main.208c3695.chunk.js"
+  ]
+}
